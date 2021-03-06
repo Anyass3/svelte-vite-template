@@ -1,11 +1,11 @@
 # svelte app
 
-This is a project template for Svelte + vite + typescript.
+This is a project template for Svelte + vite 2 with optional typescript support.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit anyass3/svelte-vite-typescript-template svelte-app
+npx degit anyass3/svelte-vite-template svelte-app
 cd svelte-app
 ```
 
@@ -47,3 +47,5 @@ Or remove the script via:
 ```bash
 rm scripts/setupTypeScript.js
 ```
+
+> NOTE: this the edited official sveltejs/template/scripts/setupTypeScript.js in order match vite.

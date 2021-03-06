@@ -49,3 +49,5 @@ rm scripts/setupTypeScript.js
 ```
 
 > NOTE: this the edited official sveltejs/template/scripts/setupTypeScript.js in order match vite.
+
+# using [@svitejs/vite-plugin-svelte](https://npm.io/package/@svitejs/vite-plugin-svelte)

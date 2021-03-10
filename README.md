@@ -5,7 +5,7 @@ This is a project template for Svelte + vite 2 with optional typescript support.
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit anyass3/svelte-vite-template svelte-app
+npx degit anyass3/svelte-vite-template#main svelte-app
 cd svelte-app
 ```
 
